@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CapX</string>
+    <string name="Welcome">Welcome to CapX \n\nPlease enter a stock symbol (e.g, AAPL, TSLA) in the search bar.\n\nHit the search button to view the current stock price and details</string>
+</resources>
